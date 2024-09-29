@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1005211420218",
+    "project_id": "kiotchat-7006b",
+    "storage_bucket": "kiotchat-7006b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005211420218:android:6a16a9151c2f1cbdd2d703",
+        "android_client_info": {
+          "package_name": "com.example.kb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005211420218-1qbafb4jb0ku7sgmiig1lucp9mbu5pvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kb",
+            "certificate_hash": "2a8ebca517522295b75a3cf9c9d3ff8d415fec4d"
+          }
+        },
+        {
+          "client_id": "1005211420218-j9thbbpscf9gknp1fcgujr441rhdp7pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU2NfXGyyLu_bf0lyTK5GV22lOdG4U09g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005211420218-j9thbbpscf9gknp1fcgujr441rhdp7pr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005211420218-6ne8v23l3m9ga8q06hb7jvtnaq5pq14c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
